@@ -64,7 +64,15 @@ idle(void)
 void
 keyboard( unsigned char key, int mousex, int mousey )
 {
-   
+    switch(key) 
+	{
+	case 033:	// ESC¼ü ºÍ 'q' ¼üÍË³öÓÎÏ·
+		exit(EXIT_SUCCESS);
+		break;
+	case 'q':
+		exit (EXIT_SUCCESS);
+		break;
+	}
     glutPostRedisplay();
 }
 
