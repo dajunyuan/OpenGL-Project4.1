@@ -1,0 +1,29 @@
+﻿  mesh.cpp
+c:\users\szu\desktop\project4.1\project4.1\include\angel.h(63): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+c:\users\szu\desktop\project4.1\project4.1\include\mat.h(698): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+c:\users\szu\desktop\project4.1\project4.1\include\mat.h(699): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+c:\users\szu\desktop\project4.1\project4.1\include\mat.h(700): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+c:\users\szu\desktop\project4.1\project4.1\include\mat.h(721): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+c:\users\szu\desktop\project4.1\project4.1\include\mat.h(723): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+c:\users\szu\desktop\project4.1\project4.1\include\mat.h(726): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+c:\users\szu\desktop\project4.1\project4.1\include\mat.h(743): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+c:\users\szu\desktop\project4.1\project4.1\mesh.cpp(91): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\szu\desktop\project4.1\project4.1\mesh.cpp(92): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\szu\desktop\project4.1\project4.1\mesh.cpp(157): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+c:\users\szu\desktop\project4.1\project4.1\mesh.cpp(158): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+c:\users\szu\desktop\project4.1\project4.1\mesh.cpp(160): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+c:\users\szu\desktop\project4.1\project4.1\mesh.cpp(161): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+c:\users\szu\desktop\project4.1\project4.1\mesh.cpp(178): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\szu\desktop\project4.1\project4.1\mesh.cpp(179): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\szu\desktop\project4.1\project4.1\mesh.cpp(240): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+c:\users\szu\desktop\project4.1\project4.1\mesh.cpp(243): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+c:\users\szu\desktop\project4.1\project4.1\mesh.cpp(263): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\szu\desktop\project4.1\project4.1\mesh.cpp(264): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\szu\desktop\project4.1\project4.1\mesh.cpp(327): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+c:\users\szu\desktop\project4.1\project4.1\mesh.cpp(330): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+c:\users\szu\desktop\project4.1\project4.1\mesh.cpp(333): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+c:\users\szu\desktop\project4.1\project4.1\mesh.cpp(337): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+c:\users\szu\desktop\project4.1\project4.1\mesh.cpp(340): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+c:\users\szu\desktop\project4.1\project4.1\mesh.cpp(343): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  Project4.1.vcxproj -> C:\Users\szu\Desktop\Project4.1\Debug\Project4.1.exe
+  Project4.1.vcxproj -> C:\Users\szu\Desktop\Project4.1\Debug\Project4.1.pdb (Partial PDB)
